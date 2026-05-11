@@ -12,48 +12,48 @@ Computer Science Student | Machine Learning Enthusiast | AI & Data Analysis Rese
 # Skills 
 
 ## Machine Learning
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%2361dafb?style=for-the-badge&labelColor=black)
-![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-%23ff6b6b?style=for-the-badge)
-![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-%23ffa502?style=for-the-badge)
-![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-%234cd137?style=for-the-badge)
-![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-%2339cccc?style=for-the-badge)
+![ML](https://img.shields.io/badge/ML-%2300A3FF?style=for-the-badge&logoColor=white)
+![Supervised](https://img.shields.io/badge/Supervised-%23FF6B6B?style=for-the-badge&logoColor=white)
+![Unsupervised](https://img.shields.io/badge/Unsupervised-%23F39C12?style=for-the-badge&logoColor=white)
+![Model Eval](https://img.shields.io/badge/Model_Eval-%234CD137?style=for-the-badge&logoColor=white)
+![Feature Eng](https://img.shields.io/badge/Feature_Eng-%2339CCCC?style=for-the-badge&logoColor=white)
 
 ---
 
 ##  Data Analysis
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-%236c5ce7?style=for-the-badge)
-![EDA](https://img.shields.io/badge/EDA-%23fdcb6e?style=for-the-badge)
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-%23e84393?style=for-the-badge)
-![Visualization](https://img.shields.io/badge/Visualization-%2300cec9?style=for-the-badge)
-![Statistics](https://img.shields.io/badge/Statistics-%23fab1a0?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-%236C5CE7?style=for-the-badge&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-%23FDCC6E?style=for-the-badge&logoColor=black)
+![Cleaning](https://img.shields.io/badge/Cleaning-%23E84393?style=for-the-badge&logoColor=white)
+![Viz](https://img.shields.io/badge/Viz-%2300CEC9?style=for-the-badge&logoColor=white)
+![Stats](https://img.shields.io/badge/Stats-%23FAB1A0?style=for-the-badge&logoColor=black)
 
 ---
 
 ##  Deep Learning
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23a29bfe?style=for-the-badge)
-![Neural Networks](https://img.shields.io/badge/Neural%20Networks-%23ff7675?style=for-the-badge)
-![CNN Basics](https://img.shields.io/badge/CNN%20Basics-%23fd79a8?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-%23A29BFE?style=for-the-badge&logoColor=white)
+![Neural Nets](https://img.shields.io/badge/Neural_Nets-%23FF7675?style=for-the-badge&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-%23FD79A8?style=for-the-badge&logoColor=white)
 
 ---
 
 ##  Python & Libraries
-![Python](https://img.shields.io/badge/Python-%23f9ca24?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-%2345aaf2?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-%236341f5?style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23e17055?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-%2300b894?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23d63031?style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23e67e22?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-%23F9CA24?style=for-the-badge&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-%2345AAF2?style=for-the-badge&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%236341F5?style=for-the-badge&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E17055?style=for-the-badge&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-%2300B894?style=for-the-badge&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23D63031?style=for-the-badge&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23E67E22?style=for-the-badge&logoColor=white)
 
 ---
 
 ##  Databases
-![SQL](https://img.shields.io/badge/SQL-%230098d3?style=for-the-badge)
-![Data Querying](https://img.shields.io/badge/Data%20Querying-%237f8c8d?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-%230098D3?style=for-the-badge&logoColor=white)
+![Querying](https://img.shields.io/badge/Querying-%237F8C8D?style=for-the-badge&logoColor=white)
 
 ---
 
 ##  AI & Research
-![AI Concepts](https://img.shields.io/badge/AI%20Concepts-%238e44ad?style=for-the-badge)
-![Research](https://img.shields.io/badge/Research-%23c0392b?style=for-the-badge)
-![Paper Review](https://img.shields.io/badge/Paper%20Review-%2349a6e9?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-%238E44AD?style=for-the-badge&logoColor=white)
+![Research](https://img.shields.io/badge/Research-%23C0392B?style=for-the-badge&logoColor=white)
+![Paper Review](https://img.shields.io/badge/Paper_Review-%2349A6E9?style=for-the-badge&logoColor=white)
