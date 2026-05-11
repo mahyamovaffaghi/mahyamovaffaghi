@@ -53,7 +53,7 @@ Computer Science Student | Machine Learning Enthusiast | AI & Data Analysis Rese
 
 ---
 
-## 💡 AI & Research
+##  AI & Research
 ![AI](https://img.shields.io/badge/AI%20Concepts-%23A03030?style=for-the-badge&logoColor=white)
 ![Research](https://img.shields.io/badge/Research-%234682B4?style=for-the-badge&logoColor=white)
 ![Paper Review](https://img.shields.io/badge/Paper%20Review-%231A2B3C?style=for-the-badge&logoColor=white)
