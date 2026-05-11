@@ -1,6 +1,5 @@
 <h2 align="center">
-Computer Science Student | Machine Learning Enthusiast | AI & Data Analysis Researcher  
-</h2>
+Computer Science Student | AI, Machine Learning & Web Development</h2>
 
 ---
 
