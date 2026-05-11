@@ -9,9 +9,9 @@ Computer Science Student | Machine Learning Enthusiast | AI & Data Analysis Rese
 
 ---
 
-# 💻 Skills 
+#  Skills 
 
-## 🧠 Machine Learning
+##  Machine Learning
 ![ML](https://img.shields.io/badge/Machine%20Learning-%231A2B3C?style=for-the-badge&logoColor=white)
 ![Supervised](https://img.shields.io/badge/Supervised%20Learning-%23A03030?style=for-the-badge&logoColor=white)
 ![Unsupervised](https://img.shields.io/badge/Unsupervised%20Learning-%23004D40?style=for-the-badge&logoColor=white)
@@ -20,7 +20,7 @@ Computer Science Student | Machine Learning Enthusiast | AI & Data Analysis Rese
 
 ---
 
-## 📊 Data Analysis
+##  Data Analysis
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-%23004D40?style=for-the-badge&logoColor=white)
 ![EDA](https://img.shields.io/badge/EDA-%23A03030?style=for-the-badge&logoColor=white)
 ![Cleaning](https://img.shields.io/badge/Data%20Cleaning-%234682B4?style=for-the-badge&logoColor=white)
@@ -29,14 +29,14 @@ Computer Science Student | Machine Learning Enthusiast | AI & Data Analysis Rese
 
 ---
 
-## 🤖 Deep Learning
+##  Deep Learning
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23A03030?style=for-the-badge&logoColor=white)
 ![Neural Nets](https://img.shields.io/badge/Neural%20Networks-%234682B4?style=for-the-badge&logoColor=white)
 ![CNN](https://img.shields.io/badge/CNN-%231A2B3C?style=for-the-badge&logoColor=white)
 
 ---
 
-## 🐍 Python & Libraries
+##  Python & Libraries
 ![Python](https://img.shields.io/badge/Python-%23004D40?style=for-the-badge&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23A03030?style=for-the-badge&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%234682B4?style=for-the-badge&logoColor=white)
@@ -47,7 +47,7 @@ Computer Science Student | Machine Learning Enthusiast | AI & Data Analysis Rese
 
 ---
 
-## 🗄 Databases
+##  Databases
 ![SQL](https://img.shields.io/badge/SQL-%231A2B3C?style=for-the-badge&logoColor=white)
 ![Querying](https://img.shields.io/badge/Data%20Querying-%23004D40?style=for-the-badge&logoColor=white)
 
