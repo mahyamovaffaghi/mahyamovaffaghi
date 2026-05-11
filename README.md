@@ -1,5 +1,5 @@
 <h2 align="center">
-Computer Science Student | Python & Django Developer | Data Science & Machine Learning</h2>
+Computer Science Student | Full-Stack Developer | Data Science & Machine Learning</h2>
 
 ---
 
