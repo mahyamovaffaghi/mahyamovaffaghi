@@ -1,6 +1,6 @@
 <h2 align="center">
 Computer Science Student | Machine Learning Enthusiast | AI & Data Analysis Researcher  
-</h3>
+</h2>
 
 ---
 
@@ -9,51 +9,51 @@ Computer Science Student | Machine Learning Enthusiast | AI & Data Analysis Rese
 
 ---
 
-# Skills 
+#  Skills
 
-## Machine Learning
-![ML](https://img.shields.io/badge/ML-%2300A3FF?style=for-the-badge&logoColor=white)
-![Supervised](https://img.shields.io/badge/Supervised-%23FF6B6B?style=for-the-badge&logoColor=white)
-![Unsupervised](https://img.shields.io/badge/Unsupervised-%23F39C12?style=for-the-badge&logoColor=white)
-![Model Eval](https://img.shields.io/badge/Model_Eval-%234CD137?style=for-the-badge&logoColor=white)
-![Feature Eng](https://img.shields.io/badge/Feature_Eng-%2339CCCC?style=for-the-badge&logoColor=white)
+##  Machine Learning
+![ML](https://img.shields.io/badge/Machine%20Learning-%232c3e50?style=for-the-badge&logoColor=white)
+![Supervised](https://img.shields.io/badge/Supervised%20Learning-%23e74c3c?style=for-the-badge&logoColor=white)
+![Unsupervised](https://img.shields.io/badge/Unsupervised%20Learning-%23f39c12?style=for-the-badge&logoColor=white)
+![Model Eval](https://img.shields.io/badge/Model%20Evaluation-%232ecc71?style=for-the-badge&logoColor=white)
+![Feature Eng](https://img.shields.io/badge/Feature%20Engineering-%233498db?style=for-the-badge&logoColor=white)
 
 ---
 
 ##  Data Analysis
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-%236C5CE7?style=for-the-badge&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA-%23FDCC6E?style=for-the-badge&logoColor=black)
-![Cleaning](https://img.shields.io/badge/Cleaning-%23E84393?style=for-the-badge&logoColor=white)
-![Viz](https://img.shields.io/badge/Viz-%2300CEC9?style=for-the-badge&logoColor=white)
-![Stats](https://img.shields.io/badge/Stats-%23FAB1A0?style=for-the-badge&logoColor=black)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-%238e44ad?style=for-the-badge&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-%23f1c40f?style=for-the-badge&logoColor=black)
+![Cleaning](https://img.shields.io/badge/Data%20Cleaning-%23c0392b?style=for-the-badge&logoColor=white)
+![Viz](https://img.shields.io/badge/Visualization-%231abc9c?style=for-the-badge&logoColor=white)
+![Stats](https://img.shields.io/badge/Statistics-%2395a5a6?style=for-the-badge&logoColor=white)
 
 ---
 
 ##  Deep Learning
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-%23A29BFE?style=for-the-badge&logoColor=white)
-![Neural Nets](https://img.shields.io/badge/Neural_Nets-%23FF7675?style=for-the-badge&logoColor=white)
-![CNN](https://img.shields.io/badge/CNN-%23FD79A8?style=for-the-badge&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%237f8c8d?style=for-the-badge&logoColor=white)
+![Neural Nets](https://img.shields.io/badge/Neural%20Networks-%23e67e22?style=for-the-badge&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-%239b59b6?style=for-the-badge&logoColor=white)
 
 ---
 
 ##  Python & Libraries
-![Python](https://img.shields.io/badge/Python-%23F9CA24?style=for-the-badge&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-%2345AAF2?style=for-the-badge&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%236341F5?style=for-the-badge&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E17055?style=for-the-badge&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-%2300B894?style=for-the-badge&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23D63031?style=for-the-badge&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23E67E22?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2327ae60?style=for-the-badge&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%232980b9?style=for-the-badge&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%232c3e50?style=for-the-badge&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23e74c3c?style=for-the-badge&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-%239b59b6?style=for-the-badge&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23d35400?style=for-the-badge&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23f39c12?style=for-the-badge&logoColor=white)
 
 ---
 
 ##  Databases
-![SQL](https://img.shields.io/badge/SQL-%230098D3?style=for-the-badge&logoColor=white)
-![Querying](https://img.shields.io/badge/Querying-%237F8C8D?style=for-the-badge&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2334495e?style=for-the-badge&logoColor=white)
+![Querying](https://img.shields.io/badge/Data%20Querying-%2395a5a6?style=for-the-badge&logoColor=white)
 
 ---
 
 ##  AI & Research
-![AI](https://img.shields.io/badge/AI-%238E44AD?style=for-the-badge&logoColor=white)
-![Research](https://img.shields.io/badge/Research-%23C0392B?style=for-the-badge&logoColor=white)
-![Paper Review](https://img.shields.io/badge/Paper_Review-%2349A6E9?style=for-the-badge&logoColor=white)
+![AI](https://img.shields.io/badge/AI%20Concepts-%239b59b6?style=for-the-badge&logoColor=white)
+![Research](https://img.shields.io/badge/Research-%23e74c3c?style=for-the-badge&logoColor=white)
+![Paper Review](https://img.shields.io/badge/Paper%20Review-%232980b9?style=for-the-badge&logoColor=white)
