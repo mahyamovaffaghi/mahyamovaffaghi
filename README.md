@@ -1,4 +1,4 @@
-<h3 align="center">
+<h2 align="center">
 Computer Science Student | Machine Learning Enthusiast | AI & Data Analysis Researcher  
 </h3>
 
@@ -9,7 +9,7 @@ Computer Science Student | Machine Learning Enthusiast | AI & Data Analysis Rese
 
 ---
 
-# 🔥 Skills (Highlighted)
+# 🔥 Skills 
 
 ## 🧠 Machine Learning
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%2361dafb?style=for-the-badge&labelColor=black)
