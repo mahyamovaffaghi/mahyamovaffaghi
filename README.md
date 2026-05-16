@@ -20,7 +20,6 @@ Computer Science Student | Full-Stack Developer | Data Science & Machine Learnin
 ![Python](https://img.shields.io/badge/Python-38667E?style=for-the-badge&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-1B435E?style=for-the-badge&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-161638?style=for-the-badge&logoColor=white)
-![React](https://img.shields.io/badge/React-5B3487?style=for-the-badge&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-38667E?style=for-the-badge&logoColor=white)
 
 ---
