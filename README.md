@@ -1,14 +1,20 @@
 <h2 align="center">
-Computer Science Student | Full-Stack Developer | Data Science & Machine Learning</h2>
+Computer Science Student | Full-Stack Developer | Data Science & Machine Learning
+</h2>
 
 ---
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahya%20Movaffaghi-1B435E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahya-movaffaghi)
-
-[![Gmail](https://img.shields.io/badge/Gmail-movaffaghimahya2005%40gmail.com-8B0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:movaffaghimahya2005@gmail.com)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahya-movaffaghi">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22"/> LinkedIn
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="mailto:movaffaghimahya2005@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="22"/> Gmail
+  </a>
+</p>
 
 ---
 
