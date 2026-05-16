@@ -7,13 +7,8 @@ Computer Science Student | Full-Stack Developer | Data Science & Machine Learnin
 ## Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mahya-movaffaghi">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22"/> LinkedIn
-  </a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="mailto:movaffaghimahya2005@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="22"/> Gmail
-  </a>
+  <a href="https://www.linkedin.com/in/mahya-movaffaghi">LinkedIn</a> •
+  <a href="mailto:movaffaghimahya2005@gmail.com">Gmail</a>
 </p>
 
 ---
