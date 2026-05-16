@@ -4,7 +4,11 @@ Computer Science Student | Full-Stack Developer | Data Science & Machine Learnin
 ---
 
 ## Connect with Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahya%20Movaffaghi-1B435E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahya-movaffaghi)
+
+[![Email](https://img.shields.io/badge/Email-movaffaghimahya2005%40gmail.com-8B0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:movaffaghimahya2005@gmail.com)
+
 
 ---
 
